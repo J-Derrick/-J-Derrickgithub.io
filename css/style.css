@@ -4824,15 +4824,16 @@ padding: 5px 8px 5px 8px;
 	/* ================================================== */
 	.social-icons{
 	display:inline-block;
+	color: #009900;
 	}
 	.social-icons i{
 	text-shadow:none;
-	color: #fff;
-	padding: 8px;
+	color: #663366;
+	padding: 10px;
 	width: 28px;
 	height: 28px;
 	text-align: center;
-	font-size:16px;
+	font: size 24px;
 	border-radius:1px;
 	-moz-border-radius:1px;
 	-webkit-border-radius:1px;
@@ -4843,7 +4844,7 @@ padding: 5px 8px 5px 8px;
 	.social-icons i:hover{
 	background:#fff;
 	border-color:#eceff3;
-	color:#111111;
+	color:#007bff;
 	}
 	
 	.social-icons.light i{
@@ -4858,7 +4859,7 @@ padding: 5px 8px 5px 8px;
 		padding-top: 12px;
 		text-align: center;
 		border:solid 2px rgba(255,255,255,.3);
-		color: rgba(255,255,255,.3);
+		color: #333;
 		border-radius: 30px;
 		-moz-border-radius: 30px;
 		-webkit-border-radius: 30px;
