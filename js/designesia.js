@@ -115,35 +115,7 @@ jQuery(document).ready(function () {
 
     });
 
-    // popup youtube, video, gmaps
-
-    jQuery('.popup-gmaps').magnificPopup({
-        disableOn: 700,
-        type: 'iframe',
-        mainClass: 'mfp-fade',
-        removalDelay: 160,
-        preloader: false,
-
-        fixedContentPos: false
-    });
-
-    $('.popup-youtube, .popup-vimeo').magnificPopup({
-      type: 'iframe',
-      mainClass: 'mfp-fade',
-      removalDelay: 160,
-      preloader: false,
-      iframe:{
-        patterns:{
-          youtube:{
-          index: 'youtube.com',
-          id: 'v=',
-          src: 'https://www.youtube.com/embed/%id%'
-        },
-      },
-      srcAction:'iframe_src',
-    },
-      fixedContentPos: false
-    });
+    
 
     // image popup
 
