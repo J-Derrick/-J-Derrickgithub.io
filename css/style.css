@@ -1301,7 +1301,7 @@ overflow:visible;
 /* section */
 /* ================================================== */
 	section{padding:90px 0 90px 0;}
-	section{background:#18191b;}
+	section{background:#22252b;}
 	
 	section.custom-1{
 	border-bottom-left-radius: 100% 100%;
@@ -10574,7 +10574,7 @@ ul#slide-list{
 	}
 
 	.de__quick-view{
-	  	overflow-y: auto;
+	  		
 	}
 	.de__qv-content{
 			position: absolute;
