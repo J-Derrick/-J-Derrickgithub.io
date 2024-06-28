@@ -1153,7 +1153,7 @@ overflow:visible;
 	}
 	
 	.header-light #menu-btn{
-	background:none;
+	background:blue;
 	}
 	
 	#menu-btn:before{
@@ -1283,7 +1283,6 @@ overflow:visible;
 	width:100%;
 	background:#fff;
 	padding:90px 0 90px 0;
-	z-index:100;
 	}
 	
 	.de_light #content{
